@@ -1,0 +1,181 @@
+C:\Users\pkkha\.jdks\openjdk-26.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.1\lib\idea_rt.jar=64272" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\pkkha\Games\dsa_java\cafe_inventory_manager\out\production\cafe_inventory_manager Main
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: Ps5
+Price: 50000
+Quantity: 4
+Product added successfully
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: Ps4
+Price: 30000
+Quantity: 4
+Product added successfully
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+1
+Ps5 | Rs 50000.0 | qty 4
+2
+Ps4 | Rs 30000.0 | qty 4
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 3
+Total stock value: Rs 320000.0
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 4
+Average price: 40000.0
+Average price rounded down: 40000
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 5
+Product number: 2
+Quantity to add: 3
+Restock was successful. New quantity: 7
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 4
+Average price: 40000.0
+Average price rounded down: 40000
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 1
+Product duplicated successfully.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+1
+Ps5 | Rs 50000.0 | qty 4
+2
+Ps4 | Rs 30000.0 | qty 7
+3
+Ps5(copy) | Rs 50000.0 | qty 4
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 4
+Average price: 43333.333333333336
+Average price rounded down: 43333
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 3
+Total stock value: Rs 610000.0
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 0
+Invalid product number.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 5
+Product number: 8
+Quantity to add: 3
+Invalid product number or restock quantity.
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 0
+Goodbye!
+Products created in total: 3
+
+Process finished with exit code 0
